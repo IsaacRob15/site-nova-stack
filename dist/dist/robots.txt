@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nova-stack-orbita.isaaccroberto.chatgpt.site/sitemap.xml
